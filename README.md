@@ -6,7 +6,7 @@ I served as one of the two programmers of the New Technology Experience VR simul
 The city of Sfax is one of the largest cities in Tunisia by the land surface with olive trees planted. The olive oil sector is one of the top contributors to the Tunisian economy.
 However, in recent years, persistent droughts and extreme weather conditions have severely degraded soil quality, leading to declining olive oil yields across the region.
 In order to combat soil degradation, our research subteam conceptualized an automated composting unit system designed to revitalize olive groves and assist local farmers.
-The Simulation included the steps of the compoting process from putting branches in the shredder until olive trees are rosed with composting liquid
+The Simulation included the steps of the compoting process from putting branches in the shredder until olive trees are rosed with composting liquid.
 
 # Technical Contributions
 Programmed the full step-by-step composting process and system state management.
