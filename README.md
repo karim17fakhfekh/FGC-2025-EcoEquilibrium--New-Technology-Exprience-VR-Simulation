@@ -20,4 +20,4 @@ Our project was selected in the *Top 10 Best New Technology Experience Projects*
 # Additional Remarks
 The project contains uniquely my contribution to the VR Simulation subteam.
 You can control the game through the keyboard.
-You can check my documentation through this link: 
+You can check my documentation through this link: https://docs.google.com/document/d/128OAv2NjRJwl_q7vJpkseK0FQs0_EFvcpxXVWwPoB1U/edit?usp=sharing
